@@ -1,4 +1,4 @@
-lost-cities
+City Loser
 ===========
 
-Lost Cities server
+A server that plays Lost Cities.
